@@ -1,0 +1,25 @@
+{
+  "name": "school.tauqeer.in",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikbhal/tauqeer_school.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikbhal/tauqeer_school/issues"
+  },
+  "homepage": "https://github.com/ikbhal/tauqeer_school#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "sqlite3": "^5.0.8"
+  }
+}
